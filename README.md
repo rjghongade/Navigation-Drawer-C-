@@ -19,7 +19,7 @@ This C# application demonstrates the implementation of a Navigation Drawer.
   ```bash
   cd Navigation-Drawer-Csharp
 
-![Screenshot_2](MAIN1.png)
+![Screenshot_2](hello.png)
 
 ### Features
 
