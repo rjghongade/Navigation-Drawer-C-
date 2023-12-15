@@ -1,5 +1,5 @@
 # Navigation Drawer C# Application
-
+[screen-capture (1).webm](https://github.com/rjghongade/Navigation-Drawer-C-/assets/105046011/df4b082f-e967-45ed-95d5-5e282c17ce23)
 This C# application demonstrates the implementation of a Navigation Drawer.
 
 ## Getting Started
@@ -8,6 +8,7 @@ This C# application demonstrates the implementation of a Navigation Drawer.
 
 - .NET SDK installed on your machine.
 
+![Screenshot_2](hello.png)
 ### Installation
 
 1. Clone the repository:
@@ -19,8 +20,6 @@ This C# application demonstrates the implementation of a Navigation Drawer.
   ```bash
   cd Navigation-Drawer-Csharp
 
-![Screenshot_2](hello.png)
-
 ### Features
 
 Navigation Drawer UI
@@ -29,5 +28,5 @@ Navigation Drawer UI
 ```
 rajughongade9022@gmail.com
 ```
-[screen-capture (1).webm](https://github.com/rjghongade/Navigation-Drawer-C-/assets/105046011/df4b082f-e967-45ed-95d5-5e282c17ce23)
+
 
